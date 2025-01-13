@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" width="100%" alt="MasterHead">
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif)]
 
 <h1 align="center">Hi 👋, I'm Lokesh Singh Mehta</h1>
 <h3 align="center">A Frontend Developer crafting engaging web experiences</h3>
