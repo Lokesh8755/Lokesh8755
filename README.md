@@ -1,5 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif)]
-
+<img src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="MasterHead" width="100%" height="350"/>
 <h1 align="center">Hi 👋, I'm Lokesh Singh Mehta</h1>
 <h3 align="center">A Frontend Developer crafting engaging web experiences</h3>
 
